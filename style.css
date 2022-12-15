@@ -1,0 +1,74 @@
+.bg-leniear{
+    background: linear-gradient(to right, rgba(145, 102, 102, 0.267) , rgba(57, 88, 57, 0.356), rgba(48, 223, 42, 0.116), rgba(255, 166, 0, 0.151));
+}
+.con1 {
+    background: rgb(255, 255, 255);
+    margin-top: 200px;
+    width: 500px;
+    height: 400px;
+    box-shadow: 0px 0px 10px 0 gray;
+}
+
+.tx-left{
+    text-align: left;
+}
+.tx-right{
+    text-align: right;
+}
+.main-div {
+	padding: 50px;
+	/* padding-left: 50px; */
+}
+.div-logo {
+    
+}
+.h2-div{
+
+}
+.h2-div h2 {
+    font-size: 24px;
+    font-weight: bold;
+}
+.no-acount{}
+.no-acount p{
+    display: inline;
+}
+.b1{
+	width: 110px;
+	background: rgb(157, 161, 157);
+	border: 1px solid white;
+	padding: 5px;
+	color: #0c0c0c;
+}
+.b2{
+	width: 110px;
+	background: rgb(19, 118, 175);
+	border: 1px solid white;
+	padding: 5px;
+    color: #fdfdfd;
+    transition: .5s;
+}
+.b2:hover{
+    background:rgba(38, 231, 96, 0.37); 
+    color: #1110108a;
+
+}
+.con2{
+    background: rgb(255, 255, 255);
+margin-top: 25px;
+width: 500px;
+height: 50px;
+box-shadow: 0px 0px 10px 0 gray;
+
+}
+.key-div{
+    padding-left: 50px;
+    padding-top:5px ;
+}
+.key-div img{
+    width: 35px;
+}
+.con2:hover{
+    background: rgba(165, 157, 157, 0.116);
+    cursor: pointer;
+}
